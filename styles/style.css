@@ -20,7 +20,7 @@ nav ul li a:hover {
 }
 
 .banner {
-  background: url(../../imagens/banner.jpeg) 27% center no-repeat;
+  background: url(../../imagens/home-banner.jpg) 27% center no-repeat;
   height: 100vh;
   background-size: cover;
   display: flex;
