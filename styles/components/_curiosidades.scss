@@ -16,4 +16,13 @@
         margin-top: 5px;
         color: $cor-primaria;
     }
+    .svg-banner {
+        margin: auto;
+        width: 500px;
+        img {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            max-width: 100%;
+        }
+    }
 }

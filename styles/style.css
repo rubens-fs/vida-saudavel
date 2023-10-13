@@ -260,4 +260,13 @@ footer i {
 #curiosidades p {
   margin-top: 5px;
   color: #495371;
+}
+#curiosidades .svg-banner {
+  margin: auto;
+  width: 500px;
+}
+#curiosidades .svg-banner img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 100%;
 }/*# sourceMappingURL=style.css.map */
