@@ -25,11 +25,11 @@ Diversas práticas foram utilizadas no processo de construção da interface, ta
 
 ### Sobre a interface:
 
-## Interface principal - Não finalizada
+## Interface principal
 ![Layout](./imagens/home.png)
 
 ## 🚀 Conclusão e próximos passos
-Na busca incessante pela excelência, optei por adotar uma abordagem voltada às melhores práticas para otimizar esta interface. Meu foco primordial recai sobre a garantia de uma manutenção de código mais eficaz.
+Optei por adotar uma abordagem voltada às melhores práticas para otimizar esta interface. Meu foco primordial recai sobre a garantia de uma manutenção de código mais eficaz.
 
 Este caminho me capacita a direcionar todo meu empenho para aperfeiçoar a reutilização e o reaproveitamento de código, bem como aprimorar individualmente cada elemento deste site.
 
